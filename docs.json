@@ -3,11 +3,11 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#a130fd",
+    "light": "#a130fd",
+    "dark": "#a130fd"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favico.png",
   "navigation": {
     "tabs": [
       {
@@ -17,21 +17,11 @@
             "group": "Get Started",
             "pages": [
               "introduction",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "version-control",
+              "ssh-key"
             ]
           }
+          
         ]
       }
 
@@ -39,8 +29,8 @@
    
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/favico.png",
+    "dark": "/favico.png"
   },
   "navbar": {
     "links": [
