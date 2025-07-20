@@ -40,16 +40,16 @@
           {
             "group": "API Documentation",
             "pages": [
-              "api-reference/introduction"
+              "Welcome/introduction"
             ]
           },
           {
             "group": "Endpoint Examples",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "Welcome/endpoint/get",
+              "Welcome/endpoint/create",
+              "Welcome/endpoint/delete",
+              "Welcome/endpoint/webhook"
             ]
           }
         ]
